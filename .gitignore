@@ -1,0 +1,6 @@
+.noseids
+.pytest*
+.coverage
+.venv
+*.pyc
+htmlcov

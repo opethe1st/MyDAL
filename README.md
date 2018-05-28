@@ -1,4 +1,4 @@
-# My Datastructures and Algorithms library
+# My Datastructures and Algorithms Library
 
 To install
 
